@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/fishing_hunter/static/css/main.7d6bf6c8.chunk.css",
+    "main.js": "/fishing_hunter/static/js/main.1638d578.chunk.js",
+    "main.js.map": "/fishing_hunter/static/js/main.1638d578.chunk.js.map",
+    "runtime-main.js": "/fishing_hunter/static/js/runtime-main.87a4ac91.js",
+    "runtime-main.js.map": "/fishing_hunter/static/js/runtime-main.87a4ac91.js.map",
+    "static/js/2.85ba0b3b.chunk.js": "/fishing_hunter/static/js/2.85ba0b3b.chunk.js",
+    "static/js/2.85ba0b3b.chunk.js.map": "/fishing_hunter/static/js/2.85ba0b3b.chunk.js.map",
+    "index.html": "/fishing_hunter/index.html",
+    "static/css/main.7d6bf6c8.chunk.css.map": "/fishing_hunter/static/css/main.7d6bf6c8.chunk.css.map",
+    "static/js/2.85ba0b3b.chunk.js.LICENSE.txt": "/fishing_hunter/static/js/2.85ba0b3b.chunk.js.LICENSE.txt",
+    "static/media/Fishing.css": "/fishing_hunter/static/media/fish.81eeb037.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.87a4ac91.js",
+    "static/js/2.85ba0b3b.chunk.js",
+    "static/css/main.7d6bf6c8.chunk.css",
+    "static/js/main.1638d578.chunk.js"
+  ]
+}
